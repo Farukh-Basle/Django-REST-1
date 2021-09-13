@@ -25,7 +25,7 @@ from django.http import JsonResponse
 def json_resp(request):
     emp={
         "eno":103,
-        "ename":'FB and Rainy got Married',
+        "ename":'Sam',
         'esal':10000
     }
 
